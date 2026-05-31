@@ -1,0 +1,1 @@
+auc:0.9753      bal_acc:0.9450000000000001      TPR@1%FPR:0.67      mean_clip_score:0.3264      std_clip_score:0.0426      mean_w_clip_score:0.3212      std_w_clip_score:0.0470      mean_p_value:0.5160      std_p_value:0.2522      mean_w_p_value:0.0355      std_w_p_value:0.1054      

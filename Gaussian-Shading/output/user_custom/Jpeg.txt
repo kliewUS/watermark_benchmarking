@@ -1,0 +1,1 @@
+auc:0.9998499999999999      bal_acc:0.995      TPR@1%FPR:0.99      mean_clip_score:0.3284      std_clip_score:0.0416      mean_psnr_scores:26.9969      std_psnr_scores:1.7878      mean_ssim_scores:0.7937      std_ssim_scores:0.0588      mean_lpips_scores:0.4174      std_lpips_scores:0.0746      

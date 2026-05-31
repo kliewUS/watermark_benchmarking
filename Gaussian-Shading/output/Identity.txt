@@ -1,0 +1,4 @@
+auc:1.0      bal_acc:1.0      TPR@1%FPR:1.0      mean_clip_score:0.3201      std_clip_score:0.0427      
+tpr_detection:1.0      tpr_traceability:1.0      mean_acc:0.99453125      std_acc:0.012228496751951975      mean_clip_score:0.3610077083110809      std_clip_score:0.05278608989661257      
+tpr_detection:0.998      tpr_traceability:0.996      mean_acc:0.9936171875      std_acc:0.03342675083547686      mean_clip_score:0.3310060884356499      std_clip_score:0.04431540174542537      
+auc:1.0      bal_acc:1.0      TPR@1%FPR:1.0      mean_clip_score:0.3201      std_clip_score:0.0427      
